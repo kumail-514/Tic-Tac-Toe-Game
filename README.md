@@ -5,7 +5,7 @@ This is a simple Tic Tac Toe game built using vanilla JavaScript, HTML, and CSS.
 Two players (X and O) take turns to mark the board. The game continues until a player wins or the board is completely filled, resulting in a draw.
 
 🎮 Live Demo
-👉 https://syed-tic-tac-toe.netlify.app
+👉 https://kumail-514.github.io/Tic-Tac-Toe-Game/
 
 Features
 
