@@ -14,7 +14,6 @@ Features
 
 ✅ Reset button to restart the game
 
-✅ Responsive and interactive UI
 
 Live Demo 
 https://syed-tic-tac-toe.netlify.app
